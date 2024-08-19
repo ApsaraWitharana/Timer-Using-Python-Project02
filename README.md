@@ -48,10 +48,6 @@ Contributions are welcome! If you'd like to contribute to the timer application,
 
 
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 <div align="center">
 
 #### © 2024 All Right Reserved, Designed By [Sachini Apsara](https://github.com/ApsaraWitharana)
